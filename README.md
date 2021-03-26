@@ -1,4 +1,7 @@
 # new.css
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![](https://data.jsdelivr.com/v1/package/npm/@exampledev/new.css/badge?style=rounded)](https://www.jsdelivr.com/package/npm/@exampledev/new.css)  [![Discord](https://img.shields.io/discord/711011676702376001?color=7289DA&logo=discord&logoColor=fff)](https://discord.gg/hhuuC4w) ![GitHub stars](https://img.shields.io/github/stars/xz/new.css?style=social)
 
@@ -94,3 +97,18 @@ Check if your platform or service supports custom CSS. If it does, it'll probabl
 <br>
 
 <a href="https://vercel.com?utm_source=xz&amp;utm_campaign=new.css" target="_blank"><img src="https://vercel-badges.now.sh/powered-by-vercel.svg" alt="Powered by Vercel"></a>
+
+## Contributors 🦸
+
+[//]: contributor-faces
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+ <a href="https://github.com/localcurrency"><img src="https://avatars.githubusercontent.com/u/53160588?v=4" width="50" height="50" alt=""/></a>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
